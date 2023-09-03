@@ -1,11 +1,11 @@
-# JOHAN's NUKER
+# J0HAN's NUKER
 Fast, vast, and open-source. Quickly vaporise a server, enjoy vast amounts of commands, and relax knowing it's all open-source.
 ![image](https://github.com/ngs-official/johan-nuker/assets/123272327/da5c4afb-2794-4928-8192-fa3679e63e4a)
 
 ### Requirements <br />
 Python 3.11 (https://www.python.org/downloads/)
 
-## Instructions
+## 📖 Instructions
 Important instructions for setting-up the nuker.
 * Create a bot at https://discord.com/developers/applications by clicking on 'New Application' in the top right.
 * After creating it click on the 'Bot' category on the bar on the left.
@@ -23,7 +23,7 @@ Important instructions for setting-up the nuker.
 
 *The place where you edit your status, switch account, etc.
 
-## Updates
+## 💡 Updates
 The newest additions in version 1.6!
 * 📄 Rebranding │ Changed from 'JOHAN NUKER' to 'JOHAN's NUKER'
 * 👍 More Commands │ Added 'categories', 'voice', 'cadel', 'tdel', 'vdel', and 'dmspam'
@@ -32,7 +32,7 @@ The newest additions in version 1.6!
 * 🐛 Bug Fixes │ Fixed a few bugs/logging issues
 * ⚒️ Minor Changes │ Some other minor changes like left-aligning the title
 
-## ⠀
+## 📁 Other
 ### Tips
 1. With the mass channel ping command, if you want to have multiple words in your channel name combine them with the a dash (like instead of 'lmao get nuked' do 'lmao-get-nuked').
 2. Disable community to be able to delete all the channels!
