@@ -50,7 +50,7 @@ Do note that these times can vary on many factors.
 4. Confirm that you have 'pip' installed, it should be automatically downloaded when you install Python.
 5. You can DM me on Discord at 'johan.real' for any help! Don't feel shy.
 
-## Developing
+## 💻 Developing
 ### To-Do
 1. Add support for other platforms!
 2. Add mode where only the owner of the bot can use the commands.
