@@ -1,5 +1,5 @@
 
-# JOHANs NUKER | Version 1.6 | Developed by J0HAN
+# J0HANs NUKER | Version 1.6 | Developed by J0HAN
 
 # IMPORTING
 import discord, asyncio, random, time
@@ -507,7 +507,7 @@ async def on_message(message):
     try:
         if msg.startswith(f"{prfx}help"):
             print(f"{dft}\n◄ The help command has been used.")
-            embed=discord.Embed(title="REAL NUKER | v1.6", description=f"""**Commands:**
+            embed=discord.Embed(title="J0HANs NUKER | v1.6", description=f"""**Commands:**
 * {prfx}nuke [y/n] — Automatic nuke that deletes everything, mass channel pings, mass roles, and (optionally) bans everyone
 * {prfx}mcp [amount] [name] [message] — Creates channels and then sends 1-4 messages in them²
 * {prfx}categories [amount] [name] — Creates categories in the amount specified
