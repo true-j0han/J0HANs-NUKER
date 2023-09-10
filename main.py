@@ -532,7 +532,7 @@ async def on_message(message):
 
 Tip: Add '--clean' after a command to turn off logging messages in terminal (doesn't work for commands that have an asterisk after).""", colour=0x336EFF)
             embed.set_author(name=message.author, icon_url=message.author.avatar)
-            embed.set_footer(text="Developed by R/R")
+            embed.set_footer(text="Developed by J0HAN")
             try:
                 await message.reply(embed=embed)
                 print(f"{scs}✚ Help message successfully sent!")
