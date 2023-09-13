@@ -51,7 +51,7 @@ Do note that these times can vary on many factors.
 5. You can DM me on Discord at 'johan.real' for any help! Don't feel shy.
 
 ### Disclaimer
-This tool is for educational purposes only, I do not intend on using this for malicious purposes or have others use it with malicious intent.
+This tool was made for people to test on their own servers and prank their friends — with no malicious intent of course; originally I made this as a proof of concept, but now I maintain this for people's enjoyment.
 
 ## 💻 Developing
 ### To-Do
